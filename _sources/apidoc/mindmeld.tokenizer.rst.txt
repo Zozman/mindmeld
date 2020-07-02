@@ -1,5 +1,5 @@
-mindmeld\.tokenizer module
-==========================
+mindmeld.tokenizer module
+=========================
 
 .. automodule:: mindmeld.tokenizer
     :members:

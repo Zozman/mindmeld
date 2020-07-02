@@ -1,5 +1,5 @@
-mindmeld\.resource\_loader module
-=================================
+mindmeld.resource\_loader module
+================================
 
 .. automodule:: mindmeld.resource_loader
     :members:

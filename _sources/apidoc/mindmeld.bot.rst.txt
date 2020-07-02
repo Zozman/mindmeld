@@ -1,5 +1,5 @@
-mindmeld\.bot package
-=====================
+mindmeld.bot package
+====================
 
 .. automodule:: mindmeld.bot
     :members:

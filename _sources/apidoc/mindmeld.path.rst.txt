@@ -1,5 +1,5 @@
-mindmeld\.path module
-=====================
+mindmeld.path module
+====================
 
 .. automodule:: mindmeld.path
     :members:

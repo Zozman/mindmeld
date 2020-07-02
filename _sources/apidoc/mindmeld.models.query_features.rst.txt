@@ -1,5 +1,5 @@
-mindmeld\.models\.query\_features module
-========================================
+mindmeld.models.query\_features module
+======================================
 
 .. automodule:: mindmeld.models.query_features
     :members:

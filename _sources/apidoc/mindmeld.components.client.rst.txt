@@ -1,5 +1,5 @@
-mindmeld\.components\.client module
-===================================
+mindmeld.components.client module
+=================================
 
 .. automodule:: mindmeld.components.client
     :members:

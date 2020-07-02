@@ -1,5 +1,5 @@
-mindmeld\.components package
-============================
+mindmeld.components package
+===========================
 
 .. automodule:: mindmeld.components
     :members:

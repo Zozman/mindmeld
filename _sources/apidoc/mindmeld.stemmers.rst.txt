@@ -1,5 +1,5 @@
-mindmeld\.stemmers module
-=========================
+mindmeld.stemmers module
+========================
 
 .. automodule:: mindmeld.stemmers
     :members:

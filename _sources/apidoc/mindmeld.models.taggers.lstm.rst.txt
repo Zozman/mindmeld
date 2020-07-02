@@ -1,5 +1,5 @@
-mindmeld\.models\.taggers\.lstm module
-======================================
+mindmeld.models.taggers.lstm module
+===================================
 
 .. automodule:: mindmeld.models.taggers.lstm
     :members:

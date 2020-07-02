@@ -1,5 +1,5 @@
-mindmeld\.models\.taggers\.memm module
-======================================
+mindmeld.models.taggers.memm module
+===================================
 
 .. automodule:: mindmeld.models.taggers.memm
     :members:

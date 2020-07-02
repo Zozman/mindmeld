@@ -1,5 +1,5 @@
-mindmeld\.components\.parser module
-===================================
+mindmeld.components.parser module
+=================================
 
 .. automodule:: mindmeld.components.parser
     :members:

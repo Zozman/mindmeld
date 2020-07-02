@@ -1,5 +1,5 @@
-mindmeld\.components\.classifier module
-=======================================
+mindmeld.components.classifier module
+=====================================
 
 .. automodule:: mindmeld.components.classifier
     :members:

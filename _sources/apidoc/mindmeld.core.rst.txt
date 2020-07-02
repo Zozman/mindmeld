@@ -1,5 +1,5 @@
-mindmeld\.core module
-=====================
+mindmeld.core module
+====================
 
 .. automodule:: mindmeld.core
     :members:

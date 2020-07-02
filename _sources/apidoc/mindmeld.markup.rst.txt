@@ -1,5 +1,5 @@
-mindmeld\.markup module
-=======================
+mindmeld.markup module
+======================
 
 .. automodule:: mindmeld.markup
     :members:

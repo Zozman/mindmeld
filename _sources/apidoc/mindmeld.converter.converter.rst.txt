@@ -1,5 +1,5 @@
-mindmeld\.converter\.converter module
-=====================================
+mindmeld.converter.converter module
+===================================
 
 .. automodule:: mindmeld.converter.converter
     :members:

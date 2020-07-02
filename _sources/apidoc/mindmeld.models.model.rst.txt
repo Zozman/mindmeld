@@ -1,5 +1,5 @@
-mindmeld\.models\.model module
-==============================
+mindmeld.models.model module
+============================
 
 .. automodule:: mindmeld.models.model
     :members:

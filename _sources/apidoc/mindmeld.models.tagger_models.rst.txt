@@ -1,5 +1,5 @@
-mindmeld\.models\.tagger\_models module
-=======================================
+mindmeld.models.tagger\_models module
+=====================================
 
 .. automodule:: mindmeld.models.tagger_models
     :members:

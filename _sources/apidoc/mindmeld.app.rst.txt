@@ -1,5 +1,5 @@
-mindmeld\.app module
-====================
+mindmeld.app module
+===================
 
 .. automodule:: mindmeld.app
     :members:

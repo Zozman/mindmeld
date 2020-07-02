@@ -1,5 +1,5 @@
-mindmeld\.components\.preprocessor module
-=========================================
+mindmeld.components.preprocessor module
+=======================================
 
 .. automodule:: mindmeld.components.preprocessor
     :members:

@@ -1,5 +1,5 @@
-mindmeld\.models\.helpers module
-================================
+mindmeld.models.helpers module
+==============================
 
 .. automodule:: mindmeld.models.helpers
     :members:

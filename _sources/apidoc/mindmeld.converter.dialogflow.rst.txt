@@ -1,5 +1,5 @@
-mindmeld\.converter\.dialogflow module
-======================================
+mindmeld.converter.dialogflow module
+====================================
 
 .. automodule:: mindmeld.converter.dialogflow
     :members:

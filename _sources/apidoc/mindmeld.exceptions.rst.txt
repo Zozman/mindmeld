@@ -1,5 +1,5 @@
-mindmeld\.exceptions module
-===========================
+mindmeld.exceptions module
+==========================
 
 .. automodule:: mindmeld.exceptions
     :members:

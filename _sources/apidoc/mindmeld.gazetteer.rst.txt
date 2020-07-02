@@ -1,5 +1,5 @@
-mindmeld\.gazetteer module
-==========================
+mindmeld.gazetteer module
+=========================
 
 .. automodule:: mindmeld.gazetteer
     :members:

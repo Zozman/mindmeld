@@ -1,5 +1,5 @@
-mindmeld\.converter\.rasa module
-================================
+mindmeld.converter.rasa module
+==============================
 
 .. automodule:: mindmeld.converter.rasa
     :members:

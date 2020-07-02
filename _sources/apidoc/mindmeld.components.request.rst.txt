@@ -1,5 +1,5 @@
-mindmeld\.components\.request module
-====================================
+mindmeld.components.request module
+==================================
 
 .. automodule:: mindmeld.components.request
     :members:

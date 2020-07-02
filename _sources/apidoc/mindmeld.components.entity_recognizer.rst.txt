@@ -1,5 +1,5 @@
-mindmeld\.components\.entity\_recognizer module
-===============================================
+mindmeld.components.entity\_recognizer module
+=============================================
 
 .. automodule:: mindmeld.components.entity_recognizer
     :members:
